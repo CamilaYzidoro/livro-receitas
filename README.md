@@ -1,5 +1,6 @@
-##Livro de receitas :cookie:
+## Livro de receitas :cookie:
 
-Olá! Bem vindo ao meu livro de receitas.
+Olá! Bem vindo ao meu livro de receitas, espero que possa se deliciar com as receitas que encontrar!! :smile:
 
-- Strogonoff de frango
+- Strogonoff de Frango
+- Doce de Banana 
